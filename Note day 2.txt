@@ -1,0 +1,3 @@
+For loop
+For 'variable name' in 'collection' :
+a 'collection' is a group of items, such as strings
